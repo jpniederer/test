@@ -13,3 +13,5 @@ git push --set-upstream origin master
 git add test.txt
 git commit -m "Adding the manual branch to the project."
 git push
+
+-- Now I'm on the manual branch.
