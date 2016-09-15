@@ -1,1 +1,3 @@
 This is an update.
+
+So I've spent years using TFS/Visual Studio Online, now it's time to master git.
