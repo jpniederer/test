@@ -13,3 +13,9 @@ git push --set-upstream origin master
 git add test.txt
 git commit -m "Adding the manual branch to the project."
 git push
+
+git checkout test.txt
+git checkout master
+git add test.txt
+git commit - "Back on master after rejecting pull request from manual branch."
+git push
