@@ -10,5 +10,6 @@ git push https://github.com/jpniederer/test master
 git checkout master
 git merge manual
 git push --set-upstream origin master
+git add test.txt
 git commit -m "Adding the manual branch to the project."
 git push
